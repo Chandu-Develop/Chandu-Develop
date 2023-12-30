@@ -38,7 +38,7 @@
 
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandu-Develop&theme=onedark" alt="mystreak"/></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chandu-Develop&theme=onedark" alt="GitHub Streak" /></a>
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 <br>
